@@ -1,0 +1,15 @@
+{
+  "name": "stripe-api",
+  "version": "1.0.0",
+  "description": "credit card api",
+  "main": "stripe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "akash",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "stripe": "^8.145.0"
+  }
+}
